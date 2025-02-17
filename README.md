@@ -58,5 +58,5 @@ Developed by **Yusuf Akdeniz**. Contributions are welcome!
 
 ---
 
-Enjoy using **Project Finder**? Leave a ⭐ on [GitHub](https://github.com/your-repo)!
+Enjoy using **Project Finder**? Leave a ⭐ on [GitHub](https://github.com/yusufakdenizxd/project-finder)!
 
